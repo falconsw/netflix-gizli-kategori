@@ -2,11 +2,11 @@
 
 ### [✚ Chrome'a Ekle](https://chrome.google.com/webstore/detail/netflix-gizli-kategoriler/jnieeckgpigfaegdlpndmnkblboefefg) | Chrome Uygulama Mağazası
 
-### Nei İşe Yarar?
+### Ne İşe Yarar?
 
 Netflix internet sitesinde görünmeyen kategorilerin türkçe olarak listesini sunan eklenti. bu eklenti ile gizli kategorilere kolayca erişebilirsiniz. Ayrıca eklentinin içinde bulunan hızlı arama paneli ile filtreleme yapabilirsiniz. Kategorilerin birini veya birçoğunu favorilerinize ekleyip anasayfada görünmesini sağlayabilirsiniz.
 
-### ÖZellikler
+### Özellikler
 - Kategori Arama
 - Favorilere ekleme
 - Eklenti arkaplanda çalışmadığı için tarayıcı performansınızı etkilemez
