@@ -1,0 +1,39 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "__MSG_extName__",
+  "short_name": "__MSG_extShortName__",
+  "version": "0.1.1",
+  "minimum_chrome_version": "45.0",
+
+  "default_locale": "tr",
+  "description": "__MSG_extDescription__",
+  "icons": {
+    "16":"images/brand/16.png",
+    "48":"images/brand/48.png",
+    "128":"images/brand/128.png"
+  },
+
+  "author": "Ömer Doğan",
+  "homepage_url": "http://doganomer.com/",
+  "browser_action": {
+    "default_icon": "images/brand/128.png",
+    "default_popup": "browser-action/popup.html",
+    "default_title": "Netflix Gizli Kategoriler"
+  },
+  "background": {
+    "scripts": [
+      "libs/dov-utils.js",
+      "core/js/config.js"
+    ],
+    "persistent": false
+  },
+  "web_accessible_resources": [
+    "data/user-preferences-default.json"
+  ],
+  "permissions": [
+    "storage",
+    "contextMenus"
+  ]
+}

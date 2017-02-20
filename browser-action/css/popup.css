@@ -1,0 +1,95 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 120%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.popup-dimensions {
+    /* avoid an excessively wide status text */
+    /*
+    white-space: pre;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    */
+    max-width: 800px;
+    min-width: 350px;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+}
+.icon-link {
+    color: #555;
+}
+.after-header { padding:50px 0px; }
+
+.has-feedback-left input.form-control {
+    padding-left: 34px;
+    padding-right: 12px;
+}
+.has-feedback-left .form-control-feedback {
+    left: 0;
+    top: 4px;
+    color: #fff;
+}
+
+.form-horizontal .has-feedback-left .form-control-feedback {
+    left: 12px;
+}
+
+.btn-pin-this-item {
+    /*visibility: hidden;*/
+}
+
+.list-group-item:hover .btn-pin-this-item {
+    visibility: visible;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #E50914;
+    border: 1px solid #000;
+}
+a.list-group-item, button.list-group-item {
+    color: #fff;
+    font-size: 14px;
+}
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #000000;
+    border-color: #000;
+}
+
+input#main-search-keyword-input {
+        background: #000000;
+    color: #fff;
+    border: 2px solid #e50914;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.list-group-item:first-child {
+    border-radius: 0;
+}
+
+a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #000000;
+    cursor: pointer;
+}
+
+
+input#main-search-keyword-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: white;
+}
+input#main-search-keyword-input::-moz-placeholder { /* Firefox 19+ */
+  color: white;
+}
+input#main-search-keyword-input:-ms-input-placeholder { /* IE 10+ */
+  color: white;
+}
+input#main-search-keyword-input:-moz-placeholder { /* Firefox 18- */
+  color: white;
+}

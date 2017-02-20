@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message":"Netflix Gizli Kategoriler",
+    "description":"Extension name"
+  },
+  "extShortName": {
+    "message":"Ara",
+    "description":"Extension short name"
+  },
+  "extDescription": {
+    "message":"Netflix Web Sitesinde Görünmeyen Gizli Kategoriler",
+    "description":"Extension description"
+  }
+}

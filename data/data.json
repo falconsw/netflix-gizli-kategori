@@ -1,0 +1,1489 @@
+{
+  "application" : {
+    "name" : "Netflix Gizli Kategoriler",
+    "app_id" : "netflix-categories@deekshith.in",
+    "version" : "v0.1"
+  },
+  "search_engines" : [
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyon ve Maceralar",
+      "api": "http://www.netflix.com/browse/genre/1365",
+      "pinned": true,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyon Komedileri",
+      "api": "http://www.netflix.com/browse/genre/43040",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyonlu Bilim Kurgu ve Fantastik",
+      "api": "http://www.netflix.com/browse/genre/1568",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyon Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/43048",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yetişkinlere Yönelik Animasyon",
+      "api": "http://www.netflix.com/browse/genre/11881",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Macera",
+      "api": "http://www.netflix.com/browse/genre/7442",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Afrika Filmleri",
+      "api": "http://www.netflix.com/browse/genre/3761",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Uzaylı Konulu Bilim Kurgu",
+      "api": "http://www.netflix.com/browse/genre/3327",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Hayvan Masalları",
+      "api": "http://www.netflix.com/browse/genre/5507",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyon Animeler",
+      "api": "http://www.netflix.com/browse/genre/2653",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime",
+      "api": "http://www.netflix.com/browse/genre/7424",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Komediler",
+      "api": "http://www.netflix.com/browse/genre/9302",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Drama",
+      "api": "http://www.netflix.com/browse/genre/452",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Fantastik Animeler",
+      "api": "http://www.netflix.com/browse/genre/11146",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Konulu",
+      "api": "http://www.netflix.com/browse/genre/3063",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Korku Filmi",
+      "api": "http://www.netflix.com/browse/genre/10695",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Bilim Kurgu",
+      "api": "http://www.netflix.com/browse/genre/2729",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Anime Dizi",
+      "api": "http://www.netflix.com/browse/genre/6721",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sanat Evi Filmleri",
+      "api": "http://www.netflix.com/browse/genre/29764",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Asya Yapımı Aksiyon Filmleri",
+      "api": "http://www.netflix.com/browse/genre/77232",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Avustralya Filmleri",
+      "api": "http://www.netflix.com/browse/genre/5230",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Beyzbol Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12339",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Basketbol Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12762",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Belçika Yapımı Filmler",
+      "api": "http://www.netflix.com/browse/genre/262",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "B Sınıfı Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8195",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Biyografik Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/3652",
+      "pinned": true,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Biyografik Dramalar",
+      "api": "http://www.netflix.com/browse/genre/3179",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Boks Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12443",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Britanya Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10757",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İngiltere Yapımı Diziler",
+      "api": "http://www.netflix.com/browse/genre/52117",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Campy Filmler",
+      "api": "http://www.netflix.com/browse/genre/1252",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuk ve Aile Filmleri",
+      "api": "http://www.netflix.com/browse/genre/783",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çin Filmleri",
+      "api": "http://www.netflix.com/browse/genre/3960",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Aksiyon ve Maceralar",
+      "api": "http://www.netflix.com/browse/genre/46576",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Komediler",
+      "api": "http://www.netflix.com/browse/genre/31694",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Dramalar",
+      "api": "http://www.netflix.com/browse/genre/29809",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Yabancı Filmler",
+      "api": "http://www.netflix.com/browse/genre/32473",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Filmler",
+      "api": "http://www.netflix.com/browse/genre/31574",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Müzikaller",
+      "api": "http://www.netflix.com/browse/genre/32392",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Romantik Filmler",
+      "api": "http://www.netflix.com/browse/genre/31273",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Bilim Kurgu ve Fantastik Yapımlar",
+      "api": "http://www.netflix.com/browse/genre/47147",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Gerilim",
+      "api": "http://www.netflix.com/browse/genre/46588",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik TV Şovları",
+      "api": "http://www.netflix.com/browse/genre/46553",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Savaş Filmleri",
+      "api": "http://www.netflix.com/browse/genre/48744",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Klasik Batılılar",
+      "api": "http://www.netflix.com/browse/genre/47465",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Komediler",
+      "api": "http://www.netflix.com/browse/genre/6548",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çizgi Roman ve Süper Kahraman Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10118",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yöresel Batı/Halk Müziği",
+      "api": "http://www.netflix.com/browse/genre/1105",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Mahkeme Dizileri",
+      "api": "http://www.netflix.com/browse/genre/2748",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yaratıklı Filmler",
+      "api": "http://www.netflix.com/browse/genre/6895",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Suç Konulu Aksiyon ve Maceralar",
+      "api": "http://www.netflix.com/browse/genre/9584",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Suç Belgeselleri",
+      "api": "http://www.netflix.com/browse/genre/9875",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Suç Dramaları",
+      "api": "http://www.netflix.com/browse/genre/6889",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Suç Temalı Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10499",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Suç Temalı Diziler",
+      "api": "http://www.netflix.com/browse/genre/26146",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kült Komedi Filmleri",
+      "api": "http://www.netflix.com/browse/genre/9434",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kült Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10944",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kült Filmleri",
+      "api": "http://www.netflix.com/browse/genre/7627",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kült Bilimkurgu ve Fantezi",
+      "api": "http://www.netflix.com/browse/genre/4734",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kült TV Şovları",
+      "api": "http://www.netflix.com/browse/genre/74652",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kara Mizah",
+      "api": "http://www.netflix.com/browse/genre/869",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Deniz Konulu Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/45028",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Disney",
+      "api": "http://www.netflix.com/browse/genre/67673",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Disney Müzikaller",
+      "api": "http://www.netflix.com/browse/genre/59433",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/6839",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dramalar",
+      "api": "http://www.netflix.com/browse/genre/5763",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kitaplardan Uyarlanan Dramalar",
+      "api": "http://www.netflix.com/browse/genre/4961",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gerçek Hayattan Uyarlanan Dramalar",
+      "api": "http://www.netflix.com/browse/genre/3653",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Hollanda Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10606",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Doğu Avrupa Filmleri",
+      "api": "http://www.netflix.com/browse/genre/5254",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuklara Yönelik Eğitici Yapımlar",
+      "api": "http://www.netflix.com/browse/genre/10659",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Destansı Yapımlar",
+      "api": "http://www.netflix.com/browse/genre/52858",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Deneysel Filmler",
+      "api": "http://www.netflix.com/browse/genre/11079",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İnanç ve Maneviyat",
+      "api": "http://www.netflix.com/browse/genre/26835",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İnanç ve Maneviyat Filmleri",
+      "api": "http://www.netflix.com/browse/genre/52804",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aile Konulu Yapımlar",
+      "api": "http://www.netflix.com/browse/genre/51056",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Fantastik Filmler",
+      "api": "http://www.netflix.com/browse/genre/9744",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kara Film",
+      "api": "http://www.netflix.com/browse/genre/7687",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yemek ve Seyahat",
+      "api": "http://www.netflix.com/browse/genre/72436",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Futbol Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12803",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Aksiyon ve Macera",
+      "api": "http://www.netflix.com/browse/genre/11828",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Komediler",
+      "api": "http://www.netflix.com/browse/genre/4426",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/5161",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Dramalar",
+      "api": "http://www.netflix.com/browse/genre/2150",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı LGBT Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8243",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8654",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Filmler",
+      "api": "http://www.netflix.com/browse/genre/7462",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Bilim Kurgu ve Fantezi",
+      "api": "http://www.netflix.com/browse/genre/6485",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yabancı Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10306",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Fransa Yapımı Filmler",
+      "api": "http://www.netflix.com/browse/genre/58807",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gangster Filmleri",
+      "api": "http://www.netflix.com/browse/genre/31851",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "LGBT Dramaları",
+      "api": "http://www.netflix.com/browse/genre/500",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Almanya Yapımı Filmler",
+      "api": "http://www.netflix.com/browse/genre/58886",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yunan Filmleri",
+      "api": "http://www.netflix.com/browse/genre/61115",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Tarihî Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/5349",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Korku Komedi",
+      "api": "http://www.netflix.com/browse/genre/89585",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8711",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Aksiyon ve Macera",
+      "api": "http://www.netflix.com/browse/genre/11804",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Komediler",
+      "api": "http://www.netflix.com/browse/genre/4195",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Dramalar",
+      "api": "http://www.netflix.com/browse/genre/384",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Filmler",
+      "api": "http://www.netflix.com/browse/genre/7077",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/3269",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Hint Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10463",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İrlanda Filmleri",
+      "api": "http://www.netflix.com/browse/genre/58750",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İtalyan Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8221",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Japon Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10398",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Jazz & Kolay Dinleme",
+      "api": "http://www.netflix.com/browse/genre/10271",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuk Dizileri",
+      "api": "http://www.netflix.com/browse/genre/27346",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuk İnanç ve Maneviyat",
+      "api": "http://www.netflix.com/browse/genre/751423",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuk Müzikali",
+      "api": "http://www.netflix.com/browse/genre/52843",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kore Yapımı Filmler",
+      "api": "http://www.netflix.com/browse/genre/5685",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kore Dizileri",
+      "api": "http://www.netflix.com/browse/genre/67879",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gece Komedileri",
+      "api": "http://www.netflix.com/browse/genre/1402",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Latin Amerika Filmleri",
+      "api": "http://www.netflix.com/browse/genre/1613",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Latin Müzikleri",
+      "api": "http://www.netflix.com/browse/genre/10741",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dövüş Sanatları, Boks ve Güreş",
+      "api": "http://www.netflix.com/browse/genre/6695",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dövüş Sanatı Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8985",
+      "pinned": true,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Orta Doğu Filmleri",
+      "api": "http://www.netflix.com/browse/genre/5875",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Askerî Aksiyon ve Maceralar",
+      "api": "http://www.netflix.com/browse/genre/2125",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Askerî Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/4006",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Askerî Dramalar",
+      "api": "http://www.netflix.com/browse/genre/11",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Askerî Diziler",
+      "api": "http://www.netflix.com/browse/genre/25804",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Mini Diziler",
+      "api": "http://www.netflix.com/browse/genre/4814",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "El yazısı belgeleri",
+      "api": "http://www.netflix.com/browse/genre/26",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Canavarlı Filmler",
+      "api": "http://www.netflix.com/browse/genre/947",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çocuk Kitaplarından Uyarlanan Filmler",
+      "api": "http://www.netflix.com/browse/genre/10056",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "0-2 Yaş İçin Filmler",
+      "api": "http://www.netflix.com/browse/genre/6796",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "11-12 Yaş İçin Filmler",
+      "api": "http://www.netflix.com/browse/genre/6962",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "2-4 Yaş İçin Filmler",
+      "api": "http://www.netflix.com/browse/genre/6218",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "5-7 Yaş İçin Filmler",
+      "api": "http://www.netflix.com/browse/genre/5455",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "8-10 Yaş İçin Filmler",
+      "api": "http://www.netflix.com/browse/genre/561",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Müzikaller",
+      "api": "http://www.netflix.com/browse/genre/13335",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Müzik",
+      "api": "http://www.netflix.com/browse/genre/1701",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Müzik ve Konser Belgeselleri",
+      "api": "http://www.netflix.com/browse/genre/90361",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gizem",
+      "api": "http://www.netflix.com/browse/genre/9994",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Yeni Zelanda Filmleri",
+      "api": "http://www.netflix.com/browse/genre/63782",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dönem Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12123",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Politik Komediler",
+      "api": "http://www.netflix.com/browse/genre/2700",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Politik Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/7018",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Politik Dramalar",
+      "api": "http://www.netflix.com/browse/genre/6616",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Politik Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/10504",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Psikolojik Gerilimler",
+      "api": "http://www.netflix.com/browse/genre/5505",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sıra Dışı Romantizm",
+      "api": "http://www.netflix.com/browse/genre/36103",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Reality Şov",
+      "api": "http://www.netflix.com/browse/genre/9833",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dini Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/10005",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Rock ve Pop Konserleri",
+      "api": "http://www.netflix.com/browse/genre/3278",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Romantik Komediler",
+      "api": "http://www.netflix.com/browse/genre/5475",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Romantik Dramalar",
+      "api": "http://www.netflix.com/browse/genre/1255",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "En Beğenilen Romantik Yapımlar",
+      "api": "http://www.netflix.com/browse/genre/502675",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Romantik Yabancı Filmler",
+      "api": "http://www.netflix.com/browse/genre/7153",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bağımsız Romantik Filmler",
+      "api": "http://www.netflix.com/browse/genre/9916",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Romantik Filmler",
+      "api": "http://www.netflix.com/browse/genre/8883",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Rus Filmleri",
+      "api": "http://www.netflix.com/browse/genre/11567",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Şeytanlı Hikâyeler",
+      "api": "http://www.netflix.com/browse/genre/6998",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Taşlamalar",
+      "api": "http://www.netflix.com/browse/genre/4922",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İskandinav Filmleri",
+      "api": "http://www.netflix.com/browse/genre/9292",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim ve Doğa Belgeselleri",
+      "api": "http://www.netflix.com/browse/genre/2595",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim ve Doğa",
+      "api": "http://www.netflix.com/browse/genre/52780",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu-Macera",
+      "api": "http://www.netflix.com/browse/genre/6926",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu Dramaları",
+      "api": "http://www.netflix.com/browse/genre/3916",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu ve Fantastik",
+      "api": "http://www.netflix.com/browse/genre/1492",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/1694",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/11014",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Mantık Dışı Komediler",
+      "api": "http://www.netflix.com/browse/genre/9702",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Şov Dünyası Dramaları",
+      "api": "http://www.netflix.com/browse/genre/5012",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Show Dünyası Müzikalleri",
+      "api": "http://www.netflix.com/browse/genre/13573",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sessiz Filmler",
+      "api": "http://www.netflix.com/browse/genre/53310",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sulu Komediler",
+      "api": "http://www.netflix.com/browse/genre/10256",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İşkenceci ve Seri Katil Filmleri",
+      "api": "http://www.netflix.com/browse/genre/8646",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Futbol Filmleri",
+      "api": "http://www.netflix.com/browse/genre/12549",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sosyal ve Kültürel Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/3675",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sosyal Konulu Dramalar",
+      "api": "http://www.netflix.com/browse/genre/3947",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Güneydoğu Asya Filmleri",
+      "api": "http://www.netflix.com/browse/genre/9196",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "İspanyolca Filmler",
+      "api": "http://www.netflix.com/browse/genre/58741",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Ruhani Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/2760",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Spor Komedileri",
+      "api": "http://www.netflix.com/browse/genre/5286",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Spor Belgeselleri",
+      "api": "http://www.netflix.com/browse/genre/180",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Spor ve Sağlık",
+      "api": "http://www.netflix.com/browse/genre/7243",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sports & Fitness",
+      "api": "http://www.netflix.com/browse/genre/9327",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Spor Filmleri",
+      "api": "http://www.netflix.com/browse/genre/4370",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Ajanlı Aksiyon ve Maceralar",
+      "api": "http://www.netflix.com/browse/genre/10702",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Ajanlı Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/9147",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Sahne Müzikaller",
+      "api": "http://www.netflix.com/browse/genre/55774",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Stand-up Komedisi",
+      "api": "http://www.netflix.com/browse/genre/11559",
+      "pinned": true,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Romantik Erotik Filmler",
+      "api": "http://www.netflix.com/browse/genre/35800",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Erotik Gerilim Filmleri",
+      "api": "http://www.netflix.com/browse/genre/972",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Doğaüstü Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/42023",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Doğaüstü Gerilimler",
+      "api": "http://www.netflix.com/browse/genre/11140",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Acıklı Filmler",
+      "api": "http://www.netflix.com/browse/genre/6384",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gençlik Komedileri",
+      "api": "http://www.netflix.com/browse/genre/3519",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gençlik Dramaları",
+      "api": "http://www.netflix.com/browse/genre/9299",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gençlik Korku Filimleri",
+      "api": "http://www.netflix.com/browse/genre/52147",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gençlik Dizileri",
+      "api": "http://www.netflix.com/browse/genre/60951",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gerilim",
+      "api": "http://www.netflix.com/browse/genre/8933",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gezi ve Macera Belgeselleri",
+      "api": "http://www.netflix.com/browse/genre/1159",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Aksiyon ve Macera Dizileri",
+      "api": "http://www.netflix.com/browse/genre/10673",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Çizgi Filmler",
+      "api": "http://www.netflix.com/browse/genre/11177",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Komedi Dizileri",
+      "api": "http://www.netflix.com/browse/genre/10375",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Belgeseller",
+      "api": "http://www.netflix.com/browse/genre/10105",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Drama Dizileri",
+      "api": "http://www.netflix.com/browse/genre/11714",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Korku Temalı Diziler",
+      "api": "http://www.netflix.com/browse/genre/83059",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Gizem Dizileri",
+      "api": "http://www.netflix.com/browse/genre/4366",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Bilim Kurgu ve Fantastik Diziler",
+      "api": "http://www.netflix.com/browse/genre/1372",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Diziler ve Programlar",
+      "api": "http://www.netflix.com/browse/genre/83",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Şehir ve Dans Konserleri",
+      "api": "http://www.netflix.com/browse/genre/9472",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Vampirli Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/75804",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kurtadam Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/75930",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Kovboy Filmleri",
+      "api": "http://www.netflix.com/browse/genre/7700",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Dünyanın Her Yerinden Konserler",
+      "api": "http://www.netflix.com/browse/genre/2856",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Zombi Temalı Korku Filmleri",
+      "api": "http://www.netflix.com/browse/genre/75405",
+      "pinned": false,
+      "last_used":0
+    }
+  ],
+  "user_preferences" : {
+    "version" : "0.1",
+    "extension_enable": true,
+    "privacy" : {
+      "collect_stats" : false
+    }
+  }, 
+  "user_data": {
+    "last_search_input": ""
+  }
+}
