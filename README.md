@@ -21,3 +21,6 @@ Netflix internet sitesinde görünmeyen kategorilerin türkçe olarak listesini 
 
 ### [✚ Chrome Uygulama Mağazası](https://chrome.google.com/webstore/detail/netflix-gizli-kategoriler/jnieeckgpigfaegdlpndmnkblboefefg) | Chrome Uygulama Mağazası
 Takip Et [**@dogandesignn**](http://twitter.com/dogandesignn) Güncellemeleri görüntüle.
+
+### Bizi Haber Yapan Web Siteleri
+- [Abchaber.com: Netflix Gizli Kategoriler Chrome eklentisi yayında!](http://www.abchaber.com/bilim-ve-teknoloji/netflix-gizli-kategoriler-chrome-eklentisi-yayinda-h3795.html)
